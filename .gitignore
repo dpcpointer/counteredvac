@@ -31,3 +31,5 @@
 *.out
 *.app
 /counteredvac/.vs
+/counteredvac/counteredvac
+/counteredvac/x64
