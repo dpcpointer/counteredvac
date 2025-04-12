@@ -1,0 +1,9 @@
+﻿  counteredvac.cpp
+  injector.cpp
+D:\injector\counteredvac\injector.cpp(246,30): warning C4244: 'initializing': conversion from 'DWORD' to 'WORD', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\injector\counteredvac\injector.cpp(256): warning C4715: 'CInjector::GetModuleExportFunction': not all control paths return a value
+  All 284 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  counteredvac.vcxproj -> D:\injector\counteredvac\x64\Release\counteredvac.exe
