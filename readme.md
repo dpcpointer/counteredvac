@@ -6,13 +6,6 @@ simple dll manual mapper for counter-strike 2
 This uses no shellcode.
 Entry is called via thread hijacking
 
-
-
-## Authors
-
-- [@iraqichild](https://www.github.com/iraqichild)
-
-
 ## Demo
 
 https://youtu.be/caWhkLoD0WU
